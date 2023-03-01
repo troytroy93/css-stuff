@@ -1,0 +1,20 @@
+body {
+  background-color: rgb(110, 202, 110);
+}
+
+a {
+color: rgb(38, 8, 115)
+}
+
+.primary {
+  color:chocolate
+}
+
+.secondary {
+  border: 3px dashed rgb(5, 3, 113);
+  text-align: center;
+  font-size: 24px;
+  font-family:cursive
+
+ }
+
